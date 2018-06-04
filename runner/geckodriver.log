@@ -1,0 +1,305 @@
+1527774666363	geckodriver	INFO	geckodriver 0.20.1
+1527774666507	geckodriver	INFO	Listening on 127.0.0.1:50107
+1527774667729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.GAw6ySwK7Tfu"
+1527774675541	Marionette	INFO	Enabled via --marionette
+2018-05-31 19:21:31.189 plugin-container[5335:296357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527774735117	Marionette	INFO	Listening on port 50118
+1527774789184	geckodriver	INFO	geckodriver 0.20.1
+1527774789193	geckodriver	INFO	Listening on 127.0.0.1:51286
+1527774789432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.9Cal5s6wQqSF"
+1527774792905	Marionette	INFO	Enabled via --marionette
+2018-05-31 19:23:14.486 plugin-container[5385:299652] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527774795562	Marionette	INFO	Listening on port 51295
+1527774795603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527774795689	Marionette	DEBUG	Register listener.js for window 2147483649
+1527775013976	geckodriver	INFO	geckodriver 0.20.1
+1527775013986	geckodriver	INFO	Listening on 127.0.0.1:51450
+1527775014244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.O6CPQGfTNQVg"
+1527775020333	Marionette	INFO	Enabled via --marionette
+2018-05-31 19:27:03.150 plugin-container[5468:306102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527775025975	Marionette	INFO	Listening on port 51459
+1527775026012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527775035036	Marionette	DEBUG	Register listener.js for window 2147483649
+1527775040131	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527775044536	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527775044536	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527775049530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://homehealth.medocity.com/"
+1527775052016	Marionette	DEBUG	Received DOM event "pageshow" for "https://homehealth.medocity.com/login"
+1527855307446	geckodriver	INFO	geckodriver 0.20.1
+1527855307471	geckodriver	INFO	Listening on 127.0.0.1:54673
+1527855308489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.3ANXjqcrKJXq"
+1527855313397	Marionette	INFO	Enabled via --marionette
+2018-06-01 17:45:17.874 plugin-container[31737:2376483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527855347290	Marionette	INFO	Listening on port 54684
+1527855347730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527855347935	Marionette	DEBUG	Register listener.js for window 2147483649
+1527855354715	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527855357571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527855357571	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527855361911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://homehealth.medocity.com/"
+1527855364774	Marionette	DEBUG	Received DOM event "pageshow" for "https://homehealth.medocity.com/login"
+1527855904439	geckodriver	INFO	geckodriver 0.20.1
+1527855904454	geckodriver	INFO	Listening on 127.0.0.1:55470
+1527855905435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.XDfz5dUoHri4"
+1527855908643	Marionette	INFO	Enabled via --marionette
+2018-06-01 17:55:10.807 plugin-container[31963:2392469] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527855912200	Marionette	INFO	Listening on port 55481
+1527855912242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527855912353	Marionette	DEBUG	Register listener.js for window 2147483649
+1527855917683	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527855920728	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527855920729	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527855922466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://homehealth.medocity.com/"
+1527855927662	Marionette	DEBUG	Received DOM event "pageshow" for "https://homehealth.medocity.com/login"
+1527860694835	geckodriver	INFO	geckodriver 0.20.1
+1527860694859	geckodriver	INFO	Listening on 127.0.0.1:55759
+1527860695896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.zBkNUfYLwpmf"
+1527860706152	Marionette	INFO	Enabled via --marionette
+2018-06-01 19:15:16.887 plugin-container[33564:2518187] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527860730139	Marionette	INFO	Listening on port 55770
+1527860730919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527860731052	Marionette	DEBUG	Register listener.js for window 2147483649
+1527860737275	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527860740535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527860740535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527860743479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://homehealth.medocity.com/"
+1527860744960	Marionette	DEBUG	Received DOM event "pageshow" for "https://homehealth.medocity.com/login"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527860776433	geckodriver	INFO	geckodriver 0.20.1
+1527860776443	geckodriver	INFO	Listening on 127.0.0.1:56470
+1527860776560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.Stw7yUcKx6RY"
+1527860779685	Marionette	INFO	Enabled via --marionette
+2018-06-01 19:16:21.694 plugin-container[33593:2520047] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1527860782916	Marionette	INFO	Listening on port 56479
+1527860782946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527860783067	Marionette	DEBUG	Register listener.js for window 2147483649
+1527860788107	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1527860789072	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1527860789073	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1527860791557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://homehealth.medocity.com/"
+1527860792141	Marionette	DEBUG	Received DOM event "pageshow" for "https://homehealth.medocity.com/login"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528089783950	geckodriver	INFO	geckodriver 0.20.1
+1528089784031	geckodriver	INFO	Listening on 127.0.0.1:49702
+1528089784807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.BQoGoOsJSFaF"
+1528089790600	Marionette	INFO	Enabled via --marionette
+2018-06-04 10:53:15.619 plugin-container[2654:94279] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528089797894	Marionette	INFO	Listening on port 49713
+1528089797971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528089798094	Marionette	DEBUG	Register listener.js for window 2147483649
+1528089803121	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528089805788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528089805788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528089807557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://homehealth.medocity.com/"
+1528089808040	Marionette	DEBUG	Received DOM event "pageshow" for "https://homehealth.medocity.com/login"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528110062160	geckodriver	INFO	geckodriver 0.20.1
+1528110062243	geckodriver	INFO	Listening on 127.0.0.1:58333
+1528110063249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.wTlmXPxbdJNa"
+1528110068747	Marionette	INFO	Enabled via --marionette
+2018-06-04 16:31:23.724 plugin-container[15769:642823] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528110102777	Marionette	INFO	Listening on port 58344
+1528110103143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528110103264	Marionette	DEBUG	Register listener.js for window 2147483649
+1528110108734	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528110109666	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528110109667	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528110114049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528110148480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528110148508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528110148509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528110148509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528110148510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528110148511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528110148511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1528110148511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1528110148512	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1528110148512	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1528110148513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1528110148513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1528110148513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1528110148514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1528110148514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1528110148514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1528110150416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1528110150416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1528110150416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1528110150416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1528110150417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+1528110150417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+1528110150417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1528110150417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1528110150418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1528110150418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1528110150418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1528110150418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1528110150419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1528110150419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1528110150419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1528110150419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1528110153840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483852"
+1528110153841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483853"
+1528110153841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483854"
+1528110153841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483855"
+1528110153842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483856"
+1528110153842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483857"
+1528110153842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483858"
+1528110153843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483859"
+1528110153843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+1528110153843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483861"
+1528110153844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483862"
+1528110153844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483863"
+1528110153844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483864"
+1528110153844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483865"
+1528110153845	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483866"
+1528110157503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483895"
+1528110157542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483896"
+1528110174788	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528115943765	geckodriver	INFO	geckodriver 0.20.1
+1528115943851	geckodriver	INFO	Listening on 127.0.0.1:59700
+1528115944893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.OfzwZpZaIzcT"
+1528115962368	Marionette	INFO	Enabled via --marionette
+2018-06-04 18:09:37.796 plugin-container[19967:806003] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528116015415	Marionette	INFO	Listening on port 59719
+1528116054846	geckodriver	INFO	geckodriver 0.20.1
+1528116054891	geckodriver	INFO	Listening on 127.0.0.1:61303
+1528116055889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.4h7mTInBB5b7"
+1528116059501	Marionette	INFO	Enabled via --marionette
+2018-06-04 18:11:01.302 plugin-container[20031:808453] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528116062466	Marionette	INFO	Listening on port 61318
+1528116062593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528116062788	Marionette	DEBUG	Register listener.js for window 2147483649
+1528116068244	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528116069966	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528116069966	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528116081004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528116089438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+1528116115544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528116115544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528116115545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528116115545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528116115545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528116115546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528116115546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1528116115546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1528116115547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1528116115547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1528116115548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1528116115548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1528116115548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1528116115549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1528116115549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1528116115549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1528116118923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+1528116118923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+1528116118924	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1528116118924	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1528116118925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1528116118925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1528116118926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1528116118926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1528116118926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1528116118926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1528116118927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1528116118927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1528116118927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1528116118927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1528116118928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1528116118928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1528116122385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483858"
+1528116122385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483859"
+1528116122386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+1528116122386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483861"
+1528116122386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483862"
+1528116122387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483863"
+1528116122387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483864"
+1528116122388	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483865"
+1528116122389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483866"
+1528116122389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483867"
+1528116122390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483868"
+1528116122390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483869"
+1528116122390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1528116122391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483871"
+1528116122391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1528116125475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483904"
+1528116125475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483905"
+1528116140113	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528118154369	geckodriver	INFO	geckodriver 0.20.1
+1528118154416	geckodriver	INFO	Listening on 127.0.0.1:53131
+1528118155441	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.5JQY8Ze4uGd8"
+1528118160573	Marionette	INFO	Enabled via --marionette
+2018-06-04 18:46:10.355 plugin-container[21457:865164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528118186598	Marionette	INFO	Listening on port 53150
+1528118186759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528118186837	Marionette	DEBUG	Register listener.js for window 2147483649
+1528118192432	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528118193425	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528118193462	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528118198168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528118202345	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528118204750	Marionette	DEBUG	Received DOM event "beforeunload" for "https://in.yahoo.com/?p=us"
+1528118206035	Marionette	DEBUG	Received DOM event "pagehide" for "https://in.yahoo.com/?p=us"
+1528118206037	Marionette	DEBUG	Received DOM event "unload" for "https://in.yahoo.com/?p=us"
+1528118206435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.yahoo.com/config/login?.src=fpctx&.intl=in&.lang=en-IN&.done=https%3A%2F%2Fin.yahoo.com"
+1528118206437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1528118206438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1528118206438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1528118206438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1528118206439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1528118206439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1528118207833	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.yahoo.com/config/login?.src=fpctx&.intl=in&.lang=en-IN&.done=https%3A%2F%2Fin.yahoo.com"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528118255505	geckodriver	INFO	geckodriver 0.20.1
+1528118255512	geckodriver	INFO	Listening on 127.0.0.1:54226
+1528118255785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.AiZw6h03amhL"
+1528118261644	Marionette	INFO	Enabled via --marionette
+2018-06-04 18:47:43.539 plugin-container[21540:868051] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528118265259	Marionette	INFO	Listening on port 54239
+1528118265376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528118265486	Marionette	DEBUG	Register listener.js for window 2147483649
+1528118270630	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528118271468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528118271469	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528118273640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528118308979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1528118308993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1528118308994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1528118308994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1528118308995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1528118308995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1528118308996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1528118308996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1528118308996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1528118308996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528118308997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528118308998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528118308998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528118308998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528118308999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528118311636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1528118311637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1528118311637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1528118311637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1528118311638	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1528118311638	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1528118311638	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1528118311639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1528118311639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1528118311640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483764"
+1528118311641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1528118311641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1528118333877	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528118336164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
