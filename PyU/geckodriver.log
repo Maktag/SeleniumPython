@@ -1,0 +1,349 @@
+1528294668790	geckodriver	INFO	geckodriver 0.20.1
+1528294668912	geckodriver	INFO	Listening on 127.0.0.1:61218
+1528294669906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.lS2K9uBUwwru"
+1528294676709	Marionette	INFO	Enabled via --marionette
+1528294721084	geckodriver	INFO	geckodriver 0.20.1
+1528294721138	geckodriver	INFO	Listening on 127.0.0.1:61636
+1528294722128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.dSro74wrq6ko"
+1528294725908	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:48:56.328 plugin-container[33775:5833530] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528294760851	geckodriver	INFO	geckodriver 0.20.1
+1528294760883	geckodriver	INFO	Listening on 127.0.0.1:62118
+1528294761849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.H9OSuvj4Zanm"
+1528294767126	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:49:29.607 plugin-container[33807:5838377] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528294809640	geckodriver	INFO	geckodriver 0.20.1
+1528294809649	geckodriver	INFO	Listening on 127.0.0.1:62851
+1528294809847	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.LTThx8fszIt9"
+1528294816072	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:50:20.842 plugin-container[33848:5844956] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528294831733	Marionette	INFO	Listening on port 62860
+1528294831996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528294832114	Marionette	DEBUG	Register listener.js for window 2147483649
+1528294837744	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528294840967	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528294840968	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528294850427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528294860841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1528294860841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1528294860842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483760"
+1528294860843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1528294860860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1528294893585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1528294893593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1528294893594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1528294893594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1528294893595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1528294893597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1528294893598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1528294893598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1528294893598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483788"
+1528294893599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483789"
+1528294893599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1528294893600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483791"
+1528294893600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1528294893600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483793"
+1528294893601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1528294893601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1528294893648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1528294893649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1528294893649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1528294893649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1528294893650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1528294893650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+1528294893650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483802"
+1528294893650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+1528294893651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1528294893651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1528294893651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1528294893651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1528294893651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+1528294893652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1528294893652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1528294893652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483811"
+1528294894945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483867"
+1528294894946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483868"
+1528294894948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483869"
+1528294894949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1528294894949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483871"
+1528294894950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1528294894950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483873"
+1528294894951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483874"
+1528294894951	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483875"
+1528294894952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483876"
+1528294894952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483877"
+1528294894952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483878"
+1528294894953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483879"
+1528294894953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483880"
+1528294894953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483881"
+1528294894954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483882"
+1528294895493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483907"
+1528294895493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483908"
+1528294895494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483909"
+1528294895494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483910"
+1528294895494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483911"
+1528294895495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483912"
+1528294895495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483913"
+1528294895496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483914"
+1528294895496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483915"
+1528294895496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483916"
+1528294895497	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483917"
+1528294895497	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483918"
+1528294895498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483919"
+1528294895498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483920"
+1528294895498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483921"
+1528294895498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483922"
+1528294910835	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528294913326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1528294917692	geckodriver	INFO	geckodriver 0.20.1
+1528294917737	geckodriver	INFO	Listening on 127.0.0.1:64152
+1528294918765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.s1FSTC9SV7S6"
+1528294923278	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:52:05.338 plugin-container[33918:5857043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528294926488	Marionette	INFO	Listening on port 64167
+1528294926521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528294926612	Marionette	DEBUG	Register listener.js for window 2147483649
+1528294931656	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528294932204	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528294932204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528294933724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528294938348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1528294938662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1528294966312	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1528294966327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1528294966328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1528294966328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1528294966329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1528294966330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1528294966330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1528294966331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1528294966333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528294966334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528294966335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528294966336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528294966337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528294966337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528294966337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1528294966338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1528294968746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1528294968746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483791"
+1528294968747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1528294968748	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483793"
+1528294968749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1528294968749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1528294968750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1528294968750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1528294968750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1528294968751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1528294968751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1528294968751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+1528294968752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483802"
+1528294968752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+1528294968752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1528294968752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1528294971411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483854"
+1528294971411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483855"
+1528294971412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483856"
+1528294971412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483857"
+1528294971412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483858"
+1528294971412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483859"
+1528294971413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483860"
+1528294971413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483861"
+1528294971414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483862"
+1528294971414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483863"
+1528294971414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483864"
+1528294971415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483865"
+1528294971415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483866"
+1528294971415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483867"
+1528294971416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483868"
+1528294993195	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528295095382	geckodriver	INFO	geckodriver 0.20.1
+1528295095390	geckodriver	INFO	Listening on 127.0.0.1:65360
+1528295095474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.s2ddXboBem4m"
+1528295098643	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:55:00.460 plugin-container[34050:5879434] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528295101457	Marionette	INFO	Listening on port 65369
+1528295101485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528295101569	Marionette	DEBUG	Register listener.js for window 2147483649
+1528295106607	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528295107788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528295107788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528295113161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528295118879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483854"
+1528295118901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483845"
+1528295119128	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483842"
+1528295119161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483843"
+1528295119693	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483844"
+1528295144565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1528295144597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1528295144597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1528295144598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1528295144598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1528295144599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528295144600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528295144600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528295144601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528295144601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528295144602	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528295144603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1528295144603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1528295144603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1528295144603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1528295144604	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1528295146991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1528295146991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483779"
+1528295146992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1528295146993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1528295146993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1528295146993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1528295146994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1528295146994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483785"
+1528295146994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1528295146994	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+1528295146995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483788"
+1528295146995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483789"
+1528295146995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1528295146996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483791"
+1528295146996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1528295146996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483793"
+1528295149921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483869"
+1528295149921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1528295149921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483871"
+1528295149922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1528295149922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483873"
+1528295149922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483874"
+1528295149922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483875"
+1528295149923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483876"
+1528295149923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483877"
+1528295149924	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483878"
+1528295149924	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483879"
+1528295149925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483880"
+1528295149926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483881"
+1528295149926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483882"
+1528295149927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483883"
+1528295177657	geckodriver	INFO	geckodriver 0.20.1
+1528295177667	geckodriver	INFO	Listening on 127.0.0.1:49792
+1528295177932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.NCosq102VqQY"
+1528295180820	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:56:23.206 plugin-container[34111:5889895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528295189309	Marionette	INFO	Listening on port 49801
+1528295189326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528295189426	Marionette	DEBUG	Register listener.js for window 2147483649
+1528295194591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528295195397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528295195398	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528295197217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528295213006	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528295215278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528295216481	geckodriver	INFO	geckodriver 0.20.1
+1528295216490	geckodriver	INFO	Listening on 127.0.0.1:50405
+1528295217545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.s5GtUPWDLB8p"
+1528295220167	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:57:02.596 plugin-container[34145:5894405] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528295223538	Marionette	INFO	Listening on port 50416
+1528295223588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528295223681	Marionette	DEBUG	Register listener.js for window 2147483649
+1528295228729	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528295229740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528295229741	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528295232662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528295263652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1528295263652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1528295263653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1528295263653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1528295263654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1528295263654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1528295263655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1528295263655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1528295263655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528295263656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528295263657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528295263657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528295263658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528295263658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528295263658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1528295266102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1528295266103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1528295266103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1528295266103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1528295266103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1528295266104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483771"
+1528295266104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+1528295266105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+1528295266105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483774"
+1528295266105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1528295266105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1528295266106	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1528295291807	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528295359246	geckodriver	INFO	geckodriver 0.20.1
+1528295359253	geckodriver	INFO	Listening on 127.0.0.1:50807
+1528295359371	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.YN9vsYPWIP81"
+1528295360953	Marionette	INFO	Enabled via --marionette
+2018-06-06 19:59:22.563 plugin-container[34260:5912391] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528295363692	Marionette	INFO	Listening on port 50816
+1528295363717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528295363821	Marionette	DEBUG	Register listener.js for window 2147483649
+1528295368862	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528295369489	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528295369489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528295371048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528295376415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483816"
+1528295403398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1528295403398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1528295403399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1528295403399	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1528295403400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1528295403400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1528295403401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1528295403401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1528295403402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1528295403402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1528295403403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1528295403403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1528295403404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1528295403404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1528295403404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1528295406227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1528295406227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483791"
+1528295406227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1528295406227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483793"
+1528295406228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1528295406228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1528295406228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1528295406229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1528295406229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1528295406229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1528295406229	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483800"
+1528295406230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+1528295430597	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+1528295435871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420008,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1528295436632	geckodriver	INFO	geckodriver 0.20.1
+1528295436639	geckodriver	INFO	Listening on 127.0.0.1:51129
+1528295437648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/8p/4y8f8wy559x6flxk76tpzkzm0000gn/T/rust_mozprofile.vI26p3niIpcF"
+1528295438345	Marionette	INFO	Enabled via --marionette
+2018-06-06 20:00:39.572 plugin-container[34319:5922413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528295440482	Marionette	INFO	Listening on port 51140
+1528295440599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528295440683	Marionette	DEBUG	Register listener.js for window 2147483649
+1528295445714	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1528295446634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1528295446634	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1528295449614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://in.yahoo.com/?p=us"
+1528295464774	Marionette	DEBUG	Received DOM event "pageshow" for "https://in.yahoo.com/?p=us"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

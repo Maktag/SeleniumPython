@@ -10,7 +10,6 @@ class Browser:
     def LaunchBrowser(self, browserName, targetUrl):
         if browserName == 'firefox':
             self.driver = webdriver.Firefox(executable_path='/Users/ICHI01/PycharmProjects/pySel/drivers/geckodriver')
-            print(os.curdir)
             print('The Firefox Browser has been launched.')
             time.sleep(5)
             self.driver.get(targetUrl)
@@ -24,10 +23,11 @@ class Browser:
         elif browserName == '':
             print('No browser found.')
 
-    def CloseCurrentTab(self):
-        self.driver.close()
+    @staticmethod
+    def CloseCurrentTab(driverPara):
+        driverPara.close()
         print('Current Tab closed.')
-
-    def CloseBrowser(self):
-        self.driver.quit()
+    @staticmethod
+    def CloseBrowser(driverPara):
+        driverPara.quit()
         print('Browser closed.')
