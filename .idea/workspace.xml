@@ -5,159 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ac97e83-8a8d-4118-bb60-286ff2d56e5a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PyU/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyU/all_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyU/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/LoginTestCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/chardetect" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/cacert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet-3.0.4.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/big5freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/big5prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/chardistribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/charsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/cli/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/cli/chardetect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/codingstatemachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/cp949prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/enums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/escprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/escsm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/eucjpprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euckrfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euckrprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euctwfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/euctwprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/gb2312freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/gb2312prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/hebrewprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/jisfreq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/jpcntx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langcyrillicmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langgreekmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langthaimodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/langturkishmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/latin1prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/mbcharsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/mbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/mbcssm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/sjisprober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/universaldetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/utf8prober.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/chardet/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna-2.6.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/codec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/idnadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/intranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/package_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/idna/uts46data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests-2.18.4.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/__version__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/_internal_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/adapters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/certs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/hooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/status_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3-1.22.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/_collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/connectionpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/ntlmpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/securetransport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/contrib/socks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/fields.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/filepost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/backports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/ordered_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/poolmanager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/selectors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/ssl_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/timeout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/wait.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EnvSetup/BrowserSetup.py" beforeDir="false" afterPath="$PROJECT_DIR$/EnvSetup/BrowserSetup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyU/all_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyU/all_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyU/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/PyU/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/All_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/All_Variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runner/LoginTestCases.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner/LoginTestCases.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runner/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runner/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/runner/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -167,24 +21,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runner/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginTestCases.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginTestCases.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runner/LoginTestCases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -192,13 +43,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BrowserSetup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EnvSetup/BrowserSetup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyU/all_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="All_Variables.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/All_Variables.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -216,6 +91,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>#login-username</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -224,17 +100,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EnvSetup/BrowserSetup.py" />
         <option value="$PROJECT_DIR$/PyU/__init__.py" />
         <option value="$PROJECT_DIR$/runner/__init__.py" />
-        <option value="$PROJECT_DIR$/PyU/all_test.py" />
+        <option value="$PROJECT_DIR$/EnvSetup/BrowserSetup.py" />
         <option value="$PROJECT_DIR$/runner/LoginTestCases.py" />
+        <option value="$PROJECT_DIR$/config/All_Variables.py" />
+        <option value="$PROJECT_DIR$/PyU/all_test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
-    <option name="y" value="52" />
+    <option name="x" value="105" />
+    <option name="y" value="63" />
     <option name="width" value="1815" />
     <option name="height" value="1057" />
   </component>
@@ -243,13 +120,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPython" type="462c0819:PsiDirectoryNode" />
+              <item name="EnvSetup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumPython" type="b2602c69:ProjectViewProjectNode" />
@@ -265,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in all_test.py">
+  <component name="RunManager" selected="Python.all_test">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,6 +183,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="all_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyU" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyU/all_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,9 +236,11 @@
       <item itemvalue="Python.__init__" />
       <item itemvalue="Python tests.Unittests in __init__.py" />
       <item itemvalue="Python tests.Unittests in all_test.py" />
+      <item itemvalue="Python.all_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.all_test" />
         <item itemvalue="Python tests.Unittests in all_test.py" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python tests.Unittests in __init__.py" />
@@ -354,15 +261,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 19h 46m 56s.xml">
-      <configuration name="Unittests in all_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 19h 47m 19s.xml">
-      <configuration name="Unittests in all_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 19h 47m 58s.xml">
-      <configuration name="Unittests in all_test.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 19h 48m 32s.xml">
       <configuration name="Unittests in all_test.py" configurationId="tests" />
     </history-entry>
@@ -384,43 +282,66 @@
     <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 20h 01m 06s.xml">
       <configuration name="Unittests in all_test.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 20h 20m 30s.xml">
+      <configuration name="Unittests in all_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 20h 23m 04s.xml">
+      <configuration name="Unittests in all_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_all_test_py - 2018.06.06 at 20h 25m 13s.xml">
+      <configuration name="Unittests in all_test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="52" width="1815" height="1057" extended-state="0" />
+    <frame x="105" y="63" width="1815" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.11625344" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12727273" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.5188199" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.26347914" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.48728383" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/All_Variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EnvSetup/BrowserSetup.py">
+    <entry file="file://$PROJECT_DIR$/runner/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/LoginTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyU/all_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -437,8 +358,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runner/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="390">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/LoginTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnvSetup/BrowserSetup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/All_Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -447,20 +395,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyU/all_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runner/LoginTestCases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

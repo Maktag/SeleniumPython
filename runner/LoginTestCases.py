@@ -15,13 +15,22 @@ class LoginTest:
             print("The exception is "+Exp)
         return self.driver
 
-    @staticmethod
     def login(self):
         try:
             self.driver.find_element_by_id('uh-signin').click()
-            self.driver.find_element_by_css_selector('#login-username').send_keys('')
+            time.sleep(5)
+            self.driver.find_element_by_css_selector('#login-username').send_keys('maktag28@yahoo.com')
             self.driver.find_element_by_css_selector('#login-signin').click()
-            self.driver.find_element_by_css_selector('#login-passwd').send_keys('')
-            self.driver.find_element_by_css_selector('#login-signin')
+            time.sleep(5)
+            self.driver.find_element_by_css_selector('#login-passwd').send_keys('demo11')
+            self.driver.find_element_by_css_selector('#login-signin').click()
         except Exception as e:
             print(e)
+
+    @staticmethod
+    def CloseCurrentTab(driverPara):
+        driverPara.close()
+
+    @staticmethod
+    def CloseBrowser(driverPara):
+        driverPara.quit()
