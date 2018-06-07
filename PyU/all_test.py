@@ -10,6 +10,8 @@ class TestCls(unittest.TestCase):
 
     def test_FirstCase(self):
         print('********************************************************************')
+        self.lt.login()
+
 
 if __name__ == '__main__':
     unittest.main()

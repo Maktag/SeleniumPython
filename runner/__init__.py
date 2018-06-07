@@ -27,10 +27,10 @@ class LoginTest:
             print(e)
 
 
-lt = LoginTest()
-
-driver = lt.start()
-
-lt.login()
-
-Browser.CloseBrowser(driver)
+# lt = LoginTest()
+#
+# driver = lt.start()
+#
+# lt.login()
+#
+# Browser.CloseBrowser(driver)
