@@ -2,19 +2,17 @@ import unittest
 from runner.LoginTestCases import LoginTest
 from config.All_Variables import VarsAll
 
-class TestCls(unittest.TestCase, VarsAll):
 
-    # lt = LoginTest()
-    # driver = lt.start()
-    # driver = LoginTest.driver
+class TestCls(unittest.TestCase, VarsAll):
 
     def test_FirstCase(self):
         print(self._testMethodName+' is running.')
-        self.lt.login()
+        LoginTest.login(VarsAll.driver)
 
     def test_SecondCase(self):
         print(self._testMethodName + ' is running.')
-        self.lt.CloseBrowser(self.driver)
+        LoginTest.CloseBrowser(VarsAll.driver)
+
 
 
 if __name__ == '__main__':
