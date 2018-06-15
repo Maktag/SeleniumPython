@@ -17,8 +17,9 @@ def Refresh_Page():
 
 
 def NavigateTo_Page():
-    driver.
-
+    driver.get('https://google.com')
+    driver.forward()
+    driver.back()
 
 def Ecpli_wait():
     element = WebDriverWait(driver,10).until(expected_conditions.presence_of_element_located(By.ID,"#Id"))

@@ -1,226 +1,171 @@
-# import requests, json
-#
-# data = {'userName':'sam@yopmail.com','password':'Qwerty11'}
-# r = requests.post(url = 'https://cerebellum.medocity.net/v2/login', data = data)
-# # print(r.status_code)
-# print(r.json())
-# dict = r.json()
-# if len(dict)>1:
-#     print(dict['session'])
-#     print(len(dict['session']))
-#     print(dict['message'])
-#     dict2 = dict['message']
-#     print(dict2['fullName'])
+from trial.Status import status
+
+
+st = status()
+st.pass_test('001','Jo bhi hai')
+st.pass_test('002','Jo bhi tha')
+print(st.pass_case)
 
 f = open('helloworld.html','w')
 
 message = """
 
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
-<title>Wicked CSS 3d bar chart using only CSS3</title>
-<link rel="stylesheet" type="text/css" href="css/style.css"/>
-<style>
-
-/* BASIC RESET */
-ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,macbook,p,blockquote,fieldset,input{margin:0; padding:0;}
-
-/* HTML ELEMENTS */
-body { background: -moz-radial-gradient(#364D58,#000); background: -webkit-gradient(radial, center center,10,center center,1000, from(#364D58), to(#000)); color:#555; background-color:#151f23; }
-h1 { font: bold 50px Helvetica, Arial, Sans-serif; text-align: center; color: #eee; text-shadow: 0px 2px 6px #333; }
-h1 small{ font-size: 20px; text-transform:uppercase; letter-spacing: 14px; display: block; color: #ccc; margin-top:10px; }
-h2 a { display: block; text-decoration: none; margin: 0 0 30px 0; font: italic 40px Georgia, Times, Serif;  text-align: center; color: #bfe1f1; text-shadow: 0px 2px 6px #333; }
-h2 a:hover { color: #90bcd0; }
-
-/* COMMON CLASSES */
-.break { clear:both; }
-
-/* WRAPPER */
-#wrapper { width:800px; margin:40px auto; }
-
-/* CONTENT */
-#content { }
-#content h2 { font: bold 30px Helvetica, Arial, Sans-serif; color:#eee; text-shadow: 0px 2px 6px #333; margin-left:400px; padding-top:20px; }
-
-/* BAR CHART */
-#bar { list-style:none; margin:70px 0 0 200px; width:400px; }
-#bar li { margin-top:-40px; }
-
-/* First top should have a different colour */
-#bar li:first-child div.top { background-color:rgba(186,211,215,0.5); }
-
-/* Last bottom should have a shadow */
-#bar li:last-child div.bottom { -moz-box-shadow: 0 10px 10px hsla(0,0%,0%,.2); -webkit-box-shadow: 0 100px 30px hsla(0,0%,0%,.2); box-shadow: 0 100px 30px hsla(0,0%,0%,.2); }
-
-/* Ellipse top */
-#bar li div.top { background-color:rgba(140,172,176,0.5); position:relative;
-	width:100px; height:40px; -moz-border-radius: 100px/40px; -webkit-border-radius: 100px 40px; border-radius: 100px/40px; }
-#bar li div.top img { margin-left:18px; margin-top:-32px; display:none; }
-
-/* Bar bottom */
-#bar li div.bottom { background-color:rgba(184,203,205,0.5); margin-top:-40px; position:relative;
-	width:100px; -moz-border-radius: 100px/40px; -webkit-border-radius: 100px 40px; border-radius: 100px/40px; }
-#bar li div.bottom div.infobox { padding:40px 0 0 200px; }
-#bar li div.bottom div.infobox h3 { font-family:Georgia,serif,Times; }
-#bar li div.bottom div.infobox p { font-family:"Lucida Grande",Arial,Helvetica,Sans-Serif; }
-
-/* General hover actions */
-#bar li:hover div.top img { display:inline; }
-#bar li:hover div.bottom div.infobox { color:#eee; text-shadow: 0px 5px 5px #111; }
-
-/* iPhone bar */
-#iphone div.top { z-index:99; }
-#iphone div.bottom { z-index:98; height:150px; }
-#iphone:hover div.top { z-index:999; background-color:#1f81ac; }
-#iphone:hover div.bottom { z-index:998; background-color:#1a6c90;
-	background:-moz-linear-gradient(-90deg, #1a6c90, #14506b); background:-webkit-gradient(linear, 0 top, 0 bottom, from(#1a6c90), to(#14506b)); }
-
-/* MacBook bar */
-#macbook div.top { z-index:97; }
-#macbook div.bottom { z-index:96; height:200px; }
-#macbook:hover div.top { z-index:997; background-color:#bc003c; }
-#macbook:hover div.bottom { z-index:996; background-color:#9d0032;
-	background:-moz-linear-gradient(-90deg, #9d0032, #7a0027); background:-webkit-gradient(linear, 0 top, 0 bottom, from(#9d0032), to(#7a0027)); }
-
-/* iPod bar */
-#ipod div.top { z-index:95; }
-#ipod div.bottom { z-index:94; height:250px; }
-#ipod:hover div.top { z-index:995; background-color:#d98f23; }
-#ipod:hover div.bottom { z-index:994; background-color:#b6781e;
-	background:-moz-linear-gradient(-90deg, #b6781e, #916018); background:-webkit-gradient(linear, 0 top, 0 bottom, from(#b6781e), to(#916018)); }
-
-/* Cinema Display bar */
-#cinema div.top { z-index:93; }
-#cinema div.bottom { z-index:92; height:100px; }
-#cinema:hover div.top { z-index:993; background-color:#7da864; }
-#cinema:hover div.bottom { z-index:992; background-color:#698d54;
-	background:-moz-linear-gradient(-90deg, #698d54, #506b40); background:-webkit-gradient(linear, 0 top, 0 bottom, from(#698d54), to(#506b40)); }
-
-/* Mac Mini bar */
-#macmini div.top { z-index:91; }
-#macmini div.bottom { z-index:90; height:120px; }
-#macmini:hover div.top { z-index:991; background-color:#3f1150; }
-#macmini:hover div.bottom { z-index:990; background-color:#340e43;
-	background:-moz-linear-gradient(-90deg, #340e43, #1a0721); background:-webkit-gradient(linear, 0 top, 0 bottom, from(#340e43), to(#1a0721)); }
-
-#apple { margin-top:-70px; position:relative; z-index:-999; }
-#apple p { float:right; padding-top:247px; }
-
-</style>
-</head>
-<body>
-<div id="wrapper">
-	<h1>Wicked CSS3 3d bar chart<small>using only CSS3</small></h1>
-	<h2><a href="http://www.marcofolio.net/" title="Visit Marcofolio.net">Marcofolio.net</a></h2>
-	<div id="content">
-		<h2>Apple products</h2>
-		<ul id="bar">
-			<li id="iphone">
-				<div class="top">
-					<img src="images/iphone.png" alt="iPhone" />
-				</div>
-				<div class="bottom">
-					<div class="infobox">
-						<h3>iPhone</h3>
-						<p>80,1</p>
-					</div>
-				</div>
-			</li>
-			<li id="macbook">
-				<div class="top">
-					<img src="images/macbook.png" alt="MacBook" />
-				</div>
-				<div class="bottom">
-					<div class="infobox">
-						<h3>MacBook</h3>
-						<p>102,6</p>
-					</div>
-				</div>
-			</li>
-			<li id="ipod">
-				<div class="top">
-					<img src="images/ipod.png" alt="iPod" />
-				</div>
-				<div class="bottom">
-					<div class="infobox">
-						<h3>iPod</h3>
-						<p>198,4</p>
-					</div>
-				</div>
-			</li>
-			<li id="cinema">
-				<div class="top">
-					<img src="images/cinema.png" alt="Cinema Display" />
-				</div>
-				<div class="bottom">
-					<div class="infobox">
-						<h3>Cinema&nbsp;Display</h3>
-						<p>38,2</p>
-					</div>
-				</div>
-			</li>
-			<li id="macmini">
-				<div class="top">
-					<img src="images/macmini.png" alt="Mac Mini" />
-				</div>
-				<div class="bottom">
-					<div class="infobox">
-						<h3>Mac&nbsp;Mini</h3>
-						<p>55,6</p>
-					</div>
-				</div>
-			</li>
-		</ul>
-		<div id="apple">
-			<img src="images/apple.png" alt="Apple Inc" />
-			<p>Numbers in millions sold<br />*Numbers are fictional</p>
-		</div>
-	</div>
-</div>
-</body>
-</html>
-
-
-
-
-
-
-
 <!DOCTYPE html>
-<html lang="en-US">
-<body>
+<html>
+<title>Test Report</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="mt.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+</style>
+<body class="mt-light-grey mt-content" style="max-width:1600px">
 
-<h1>My Web Page</h1>
+<!-- Sidebar/menu -->
+<nav class="mt-sidebar mt-collapse mt-white mt-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  <div class="mt-container">
+    <a href="#" onclick="mt_close()" class="mt-hide-large mt-right mt-jumbo mt-padding mt-hover-grey" title="close menu">
+      <i class="fa fa-remove"></i>
+    </a>
+    <img src="http://www.medocity.com/wp-content/uploads/2017/05/Medocity-Logo.-Full_website.jpg" style="width:45%;" class="mt-round"><br><br>
+    <h4><b>Testing Modules</b></h4>
+  </div>
+  <div class="mt-bar-block">
+    <a href="#portfolio" onclick="mt_close()" class="mt-bar-item mt-button mt-padding mt-text-teal"><i class="fa fa-th-large fa-fw mt-margin-right"></i>Pie Chart</a> 
+    <a href="#TestExecutionDetails" onclick="mt_close()" class="mt-bar-item mt-button mt-padding"><i class="fa fa-user fa-fw mt-margin-right"></i>Test Execution Details</a> 
+    <a href="#contact" onclick="mt_close()" class="mt-bar-item mt-button mt-padding"><i class="fa fa-envelope fa-fw mt-margin-right"></i>CONTACT</a>
+  </div>
+  
+</nav>
 
-<div id="piechart"></div>
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="mt-overlay mt-hide-large mt-animate-opacity" onclick="mt_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<!-- !PAGE CONTENT! -->
+<div class="mt-main" style="margin-left:300px">
 
-<script type="text/javascript">
-// Load google charts
-google.charts.load('current', {'packages':['corechart']});
-google.charts.setOnLoadCallback(drawChart);
+  <!-- Header -->
+  <header id="portfolio">
+    <a href="#"><img src="/mtimages/avatar_g2.jpg" style="width:65px;" class="mt-circle mt-right mt-margin mt-hide-large mt-hover-opacity"></a>
+    <span class="mt-button mt-hide-large mt-xxlarge mt-hover-text-grey" onclick="mt_open()"><i class="fa fa-bars"></i></span>
+    <div class="mt-container">
+    <h1><b>Details</b></h1>
+    
+        <div id="piechart" style="width:100%"></div>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        
+        <script type="text/javascript">
+        // Load google charts
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+        
+        // Draw the chart and set the chart values
+        function drawChart() {
+          var data = google.visualization.arrayToDataTable([
+          ['Task', 'Hours per Day'],
+          ['Pass', 8],
+          ['Fail', 2],
+          ['Error', 4],
+          ['Skip', 2],
+          ['Info', 8]
+        ]);
+        
+          // Optional; add a title and set the width and height of the chart
+          var options = {'title':'Test Result', 'width':1150, 'height':500};
+        
+          // Display the chart inside the <div> element with id="piechart"
+          var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+          chart.draw(data, options);
+        }
+        </script>
+    <!--
+    <div class="mt-section mt-bottombar mt-padding-16">
+      <span class="mt-margin-right">Filter:</span> 
+      <button class="mt-button mt-black">ALL</button>
+      <button class="mt-button mt-white"><i class="fa fa-diamond mt-margin-right"></i>Design</button>
+      <button class="mt-button mt-white mt-hide-small"><i class="fa fa-photo mt-margin-right"></i>Photos</button>
+      <button class="mt-button mt-white mt-hide-small"><i class="fa fa-map-pin mt-margin-right"></i>Art</button>
+    </div>
+    </div> -->
+  </header>
+  
+  <!-- Images of Me -->
+  <div class="mt-row-padding mt-padding-16" id="TestExecutionDetails">
+    
+    <div  id="module" class="mt-col m12">
+      <h1>Login With FaceBook</h1>
+    </div>
+    
+    <div id="TestCase" class="mt-col m12">
+      <p style="color:#3366cc; border-left: 6px solid #3366cc!important; border-bottom: 1px solid; padding: 0.90em 16px;">
+        <b>1.</b> 
+          Login is not working.
+          <img src="http://www.medocity.com/wp-content/uploads/2017/05/Medocity-Logo.-Full_website.jpg" style="width:10%; float:right;" class="mt-round">
+      </p>     
+    </div>
+  
 
-// Draw the chart and set the chart values
-function drawChart() {
-  var data = google.visualization.arrayToDataTable([
-  ['Task', 'Hours per Day'],
-  ['Work', 8],
-  ['Eat', 2],
-  ['TV', 4],
-  ['Gym', 2],
-  ['Sleep', 8]
-]);
+    <div id="module" class="mt-col m12">
+      <h1>Login With Twitter</h1>
+    </div>
+    
+    <div id="TestCase" class="mt-col m12">
+      <p style="color:#3366cc; border-left: 6px solid #3366cc!important; border-bottom: 1px solid; padding: 0.90em 16px;">
+        <b>1.</b> 
+          Login is not working.
+          <img src="http://www.medocity.com/wp-content/uploads/2017/05/Medocity-Logo.-Full_website.jpg" style="width:10%; float:right;" class="mt-round">
+      </p>     
+    </div>
+   
+  </div>
 
-  // Optional; add a title and set the width and height of the chart
-  var options = {'title':'My Average Day', 'width':550, 'height':400};
+<!--
+  <div class="mt-container mt-padding-large" style="margin-bottom:32px">
+    <h4><b>About Me</b></h4>
+    <p>Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+    <hr>
+    -->
+    
+  <!-- First Photo Grid-->
+<!--  
+  <div class="mt-row-padding">
+    <div class="mt-third mt-container mt-margin-bottom">
+      <img src="/mtimages/mountains.jpg" alt="Norway" style="width:100%" class="mt-hover-opacity">
+      <div class="mt-container mt-white">
+        <p><b>Lorem Ipsum</b></p>
+        <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+      </div>
+    </div>
+  </div>
+  
+  </div>
+  -->
+  
 
-  // Display the chart inside the <div> element with id="piechart"
-  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
-  chart.draw(data, options);
+  <!-- Footer -->
+  <footer class="mt-container mt-padding-32 mt-dark-grey">
+  
+
+  </div>
+  </footer>
+  
+  
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function mt_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function mt_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
 }
 </script>
 
