@@ -1,11 +1,6 @@
 from trial.Status import status
 
 
-st = status()
-st.pass_test('001','Jo bhi hai')
-st.pass_test('002','Jo bhi tha')
-print(st.pass_case)
-
 f = open('helloworld.html','w')
 
 message = """

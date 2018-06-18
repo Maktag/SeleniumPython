@@ -1,6 +1,7 @@
 
 class status:
 
+    test_unit = {}
     pass_case = {}
     fail_case = {}
     error_case = {}
@@ -27,13 +28,18 @@ class status:
         self.info_case[tc_id] = tc_Message
         return self.info_case
 
-# st = status()
-#
-# st.pass_Test('001','Jo bhi hai')
-# st.pass_Test('002','Jo bhi tha')
+    def create_module_dict(self, ModuleName):
+        self.test_unit['Module_Name'] = ModuleName
+        self.test_unit['Pass_Cases'] = self.pass_case
+        self.test_unit['Fail_Cases'] = self.fail_case
+        self.test_unit['Error_Cases'] = self.error_case
+        self.test_unit['Skip_Cases'] = self.skip_case
+        self.test_unit['Info_Cases'] = self.info_case
 
-# print(st.pass_case.items()[0])
-# print(next(iter(st.pass_case.keys())))
-# for key, value in st.pass_case.items():
-#     print(key)
-#     print(value)
+
+# st = status()
+# st.pass_test('001','Message')
+# st.fail_test('001','Message')
+# st.error_test('001','Message')
+# st.create_module_dict('Login')
+# print(st.test_unit)
